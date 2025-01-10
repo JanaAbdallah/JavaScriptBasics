@@ -53,22 +53,25 @@ Run the JavaScript file in a browser or a Node.js environment to observe the out
 
 Uncomment specific code snippets to test different features.
 
-Examples
+**Examples**
 Variable Declaration
-javascript
-Copy code
+
 let VarName = "Hello, World!";
+
 console.log(VarName);
+
 Functions
-javascript
-Copy code
+
 let SquareArea = (num) => num * num;
+
 console.log(SquareArea(5));
+
 Arrays
-javascript
-Copy code
+
 let colors = ['red', 'green', 'blue'];
+
 colors.push('yellow');
+
 console.log(colors);
 
 ## Purpose
