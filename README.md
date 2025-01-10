@@ -54,6 +54,7 @@ Run the JavaScript file in a browser or a Node.js environment to observe the out
 Uncomment specific code snippets to test different features.
 
 **Examples**
+
 Variable Declaration
 
 let VarName = "Hello, World!";
